@@ -59,7 +59,7 @@ input.onButtonPressed(Button.A, function () {
 ```
  
 ## step 6
-Great! You did it. Now you can test it out. How could you use the Math buttons to change the display to show a one or two digit number for normal sound inputs?
+Great! You did it. Now you can test it out. How can you use the math buttons to decrease the sound outputs so the number displayed is not so high?
  
 **Don't forget to fill out the final questions on the google form.**
  
