@@ -22,7 +22,7 @@ To start, use the GatorEnvironment initialize command start the sensor when the 
   
 ## Step 4
  
-Use the show number and gator environment “get” commands to show the temperature on the micro:bit. Make sure to round so you can read the number on the micro:bit.
+Use the show number and gator environment ``||gatorEnvironment:“get”||`` commands to show the temperature on the micro:bit. Make sure to round so you can read the number on the micro:bit.
  
  
 #### ~ tutorialhint
