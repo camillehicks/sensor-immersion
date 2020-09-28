@@ -18,11 +18,11 @@ If you need help with wiring, take a look at [these guides.](https://docs.google
  
 ## Step 3
  
-To start, use the GatorEnvironment initialize command start the sensor when the program starts
+To start, use the ``||gatorEnvironment: initialize||`` command start the sensor when the ``||basic:program starts||``
   
 ## Step 4
  
-Use the show number and gator environment “get” commands to show the temperature on the micro:bit. Make sure to round so you can read the number on the micro:bit.
+Use the ``||basic:ShowNumber||`` and gator environment ``||gatorEnvironment:get||`` commands to show the temperature on the micro:bit. Make sure to ``||Math: round||`` so you can read the number on the micro:bit.
  
  
 #### ~ tutorialhint
