@@ -13,20 +13,20 @@ Answer question 1 on the google form, describing your plans for how to get the m
  
 ## Step 2
  
-To start, use the show number command to display any number 
+To start, use the ``||basic:show number||`` command to display any number 
  
 #### ~ tutorialhint
 Try clicking on the 'Basic' drawer to find the block you need!
  
 ## Step 3
  
-Now change the value of the number shown to be the strength of the magnetic force
+Now change the value of the ``||basic:ShowNumber||`` block to the strength of the ``||input:magnetic force||``
  
 **In the Google Form**, answer: Do you use the magnetic force of "x", "y", "z" or "strength"? 
  
 ## Step 4
  
-What is the difference between putting this command in the block for 'on start', the block forever, or the block 'on button A pressed'?
+What is the difference between putting this command in the block for ``||basic:'on start||``, the ``||basic:forever||`` block, or the ``||input:on button A pressed||`` block?
  
 Experiment with each and when you are done, **put your answer and a screenshot of your final code in the google form**
  
