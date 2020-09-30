@@ -17,14 +17,14 @@ If you need help with wiring, take a look at [these guides.](https://docs.google
  
 ## Step 3
  
-To start, use the show number command to display any number when button a is pressed
+To start, use the ``||basic:show number||`` command to display any number ``||input:when button a is pressed||``
  
 #### ~ tutorialhint
 Try clicking on the 'Basic' drawer to find the block you need!
   
 ## Step 3
  
-Now change the value of the number shown to be the soil moisture value
+Now change the value of the ``||basic:ShowNumber||`` block to be the ``||gatorsoil:soil moisture||`` value
  
 You should have the signal come from the pin on P2 and the power come from the pin on P1
  
@@ -38,7 +38,7 @@ input.onButtonPressed(Button.A, function () {
  
 ## step 4 
  
-In the math menu you will find the round command to round to the nearest whole number
+Use the ``||math:round||`` command to round to the nearest whole number
  
 Use this command to change the displayed value to be the sound rounded to the nearest whole number. 
  
