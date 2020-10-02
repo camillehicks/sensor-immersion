@@ -33,7 +33,7 @@ Now change the value of the shown number to be the sound intensity
  
 ## step 5 
  
-In the ``||math.math||`` menu you will find the ``||math.round||`` command to round to the nearest whole number
+In the math menu you will find the math command to round to the nearest whole number
  
 Use this command to change the displayed value to be the sound rounded to the nearest whole number
  
