@@ -5,7 +5,7 @@
  
 We are going to learn how to use a micro:bit and gatorMicrophone to display sound values
  
-Submit your answers using the google form linked on[this page](https://schoolwidelabs.github.io/sensor-immersion/assessments/Lesson2/sound_assessment.html) under your teacher's name. 
+Submit your answers using the google form linked on [this page](https://schoolwidelabs.github.io/sensor-immersion/assessments/Lesson2/sound_assessment.html) under your teacher's name. 
  
 ## Step 2
  
@@ -45,7 +45,7 @@ input.onButtonPressed(Button.A, function () {
 ```
  
 ## step 6
-Great! You did it. Now you can test it out. How could you use the math blocks to decrease the sound input so the number displayed is not so large?
+Great! You did it. Now you can test it out. How could you use the math blocks to show more detailed values than just 0 or 1?
  
 **Don't forget to fill out the final questions on the google form.**
  
