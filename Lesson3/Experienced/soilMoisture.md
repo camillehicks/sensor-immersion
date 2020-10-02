@@ -30,8 +30,8 @@ You are going to need to make a temporary program or use an old program (from Le
  
 We need to set a logic command to test if the measured soil moisture is below your selected ‘alarm value’. Use the gator soil ‘get’ and ‘ 0 < 0 ‘  commands to write this logic statement for when the observed soil moisture is less than (<) your ‘alarm value’. 
  
-Note that you may need to flip the < to a < depending on where you put the ‘get moisture’ command
- 
+Note that you may need to flip the < to a > depending on where you put the ‘get moisture’ command
+ f
 #### ~ tutorialhint
 Remember that order matters, the ‘alarm value’ needs to be on the pointy side and the get soil moisture needs to be on the side where the < opens towards. 
  
