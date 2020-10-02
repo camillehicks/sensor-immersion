@@ -13,7 +13,7 @@ Submit your answers using the google form linked on[this page](https://schoolwid
  
 Describe your plan for getting the microbit to display the sound intensity
  
-If you need help with wiring, take a look at [these guides.](https://docs.google.com/document/d/1KrhVLl_owwXz_xAVbcIEAG9O5N4wdBY3mjd-GX34Bag/edit?usp=sharing)
+If you need help with wiring, take a look at [these guides.] (https://docs.google.com/document/d/1KrhVLl_owwXz_xAVbcIEAG9O5N4wdBY3mjd-GX34Bag/edit?usp=sharing)
  
 ## Step 3
  
@@ -33,7 +33,7 @@ Now change the value of the shown number to be the sound intensity
  
 ## step 5 
  
-In the ``||math.math||`` menu you will find the ``||math.round||`` command to round to the nearest whole number
+In the math menu you will find the math command to round to the nearest whole number
  
 Use this command to change the displayed value to be the sound rounded to the nearest whole number
  
@@ -45,7 +45,7 @@ input.onButtonPressed(Button.A, function () {
 ```
  
 ## step 6
-Great! You did it. Now you can test it out. How could you use the Math buttons to change the display to show a one or two digit number for normal sound inputs?
+Great! You did it. Now you can test it out. How could you use the math blocks to decrease the sound input so the number displayed is not so large?
  
 **Don't forget to fill out the final questions on the google form.**
  
